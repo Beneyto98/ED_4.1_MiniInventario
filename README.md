@@ -14,4 +14,4 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 - `.gitignore`: exclusiones de archivos no necesarios.
 - `README.md`: documentación básica del proyecto.
 
-MEJORA PARA DOCUMENTAL
+Mejora PARA RAMA DOCUMENTAL/FUNCIONAL
